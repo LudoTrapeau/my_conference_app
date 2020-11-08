@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "134466509484",
+    "firebase_url": "https://globalconferenceapp-6cb58.firebaseio.com",
+    "project_id": "globalconferenceapp-6cb58",
+    "storage_bucket": "globalconferenceapp-6cb58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134466509484:android:53e8501b69d376e7b85d09",
+        "android_client_info": {
+          "package_name": "com.myteam.eventsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134466509484-0bl4l0dosmplvqvh73sbcg23snt5hfsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADGL-Pqu9veiFAYpVu9C3GkG-SL77zH38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134466509484-0bl4l0dosmplvqvh73sbcg23snt5hfsu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134466509484-tiaurjsuuen0rfugi37v2pks8utudoec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myteam.eventsapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134466509484:android:9252b034b8a97f18b85d09",
+        "android_client_info": {
+          "package_name": "com.myteam.my_conference_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134466509484-0bl4l0dosmplvqvh73sbcg23snt5hfsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADGL-Pqu9veiFAYpVu9C3GkG-SL77zH38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134466509484-0bl4l0dosmplvqvh73sbcg23snt5hfsu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134466509484-tiaurjsuuen0rfugi37v2pks8utudoec.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myteam.eventsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
